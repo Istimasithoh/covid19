@@ -1,5 +1,4 @@
-{
-   
+
         {
             "fid": 11,
             "kodeProvi": 31,
@@ -280,5 +279,3 @@
             "kasusSemb": 0,
             "kasusMeni": 0
         }
-    
-}
