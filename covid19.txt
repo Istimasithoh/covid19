@@ -1,5 +1,6 @@
 
-        {
+	[        
+	{
             "fid": 11,
             "kodeProvi": 31,
             "provinsi": "DKI Jakarta",
@@ -279,3 +280,5 @@
             "kasusSemb": 0,
             "kasusMeni": 0
         }
+
+]
